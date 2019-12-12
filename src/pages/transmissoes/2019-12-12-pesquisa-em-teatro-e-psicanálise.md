@@ -6,7 +6,7 @@ description: >-
   O grupo de pesquisa em teatro e psicanálise vem trabalhando a partir do texto
   de Freud “Totem e Tabu”, fazendo um levantamento de questões que movem um
   processo de criação teatral. 
-featuredpost: false
+featuredpost: true
 featuredimage: /img/chemex.jpg
 tags:
   - teatro
